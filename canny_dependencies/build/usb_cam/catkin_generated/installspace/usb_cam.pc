@@ -1,0 +1,8 @@
+prefix=/home/abj/canny_dependencies/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/abj/canny_dependencies/install/include
+Libs: -L/home/abj/canny_dependencies/install/lib -lusb_cam
+Requires: 

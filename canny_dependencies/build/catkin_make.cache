@@ -1,0 +1,2 @@
+usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/abj/canny_dependencies/devel -DCMAKE_INSTALL_PREFIX=/home/abj/canny_dependencies/install -G Unix Makefiles

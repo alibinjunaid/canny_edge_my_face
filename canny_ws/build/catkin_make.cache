@@ -1,0 +1,2 @@
+canny_edge_my_face
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/abj/canny_ws/devel -DCMAKE_INSTALL_PREFIX=/home/abj/canny_ws/install
